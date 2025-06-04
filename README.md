@@ -1,4 +1,4 @@
-# OOP Lab 6 - Social Network
+# OOP Lab 5 - Social Network
 
 (the Italian version is available in file [`README_it.md`](README_it.md)).
 
